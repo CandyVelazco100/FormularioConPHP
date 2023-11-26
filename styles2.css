@@ -1,0 +1,28 @@
+body {
+    font-family: 'Red Hat Display', sans-serif;
+    background-color: #AAF0D1;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Fascinate Inline', cursive;
+    color: #FF5050;
+    font-size: 50px;
+}
+
+p {
+    margin: 5px 0;
+    font-size: 20px;
+}
+
+ul{
+    margin: 3px; 
+    font-size: 20px;
+    list-style: none;
+}
+
+strong {
+    color: #FF5050;
+}
